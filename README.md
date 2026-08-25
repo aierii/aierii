@@ -1,6 +1,3 @@
-# GitHub Profile README Test
-
-```md
 <h1 align="center">Hi 👋, I'm Farhana</h1>
 
 <h3 align="center">Frontend Developer 💻</h3>
@@ -15,7 +12,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩💻 About Me
 
 - 🔭 I'm currently working on **React and Tailwind CSS Projects**
 - 🌱 I'm currently learning **Node.js**
@@ -113,4 +110,3 @@
 <p align="center">
   <i>Thanks for visiting my GitHub profile 💻</i>
 </p>
-```
