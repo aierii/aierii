@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farhana</h1>
+<h1 align="center">Hi there 👋, It's Farhana</h1>
 
 <h3 align="center">Frontend Developer 💻</h3>
 
@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aieri&label=Profile%20Views&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aierii&label=Profile%20Views&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 👩💻 About Me
+## 👩‍💻 About Me
 
 - 🔭 I'm currently working on **React and Tailwind CSS Projects**
 - 🌱 I'm currently learning **Node.js**
@@ -81,9 +81,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aieri&show_icons=true&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aierii&show_icons=true&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aieri&layout=compact&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aierii&layout=compact&hide_border=true" height="180"/>
 
 </p>
 
@@ -92,7 +92,7 @@
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aieri&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=aierii&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -100,7 +100,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aieri&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aierii&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 </p>
 
 ---
