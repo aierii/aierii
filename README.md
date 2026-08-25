@@ -1,8 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 
-<h1 align="center">
-  Hi 👋, I'm Farhana
-</h1>
+<h1 align="center">Hi 👋, I'm Farhana</h1>
 
 <h3 align="center">
   💻 Frontend Developer | Building ideas into beautiful web experiences ✨
